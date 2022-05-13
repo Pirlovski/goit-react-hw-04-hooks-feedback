@@ -1,6 +1,7 @@
 import React from 'react';
 import shortid from 'shortid';
 import PropTypes from 'prop-types';
+
 const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
     <>
@@ -16,12 +17,10 @@ const FeedbackOptions = ({ options, onLeaveFeedback }) => {
       ))}
     </>
   );
-
-
 };
 
 FeedbackOptions.propTypes = {
-	options: PropTypes.array.isRequired,
-	onLeaveFeedback: PropTypes.func.isRequired
+  options: PropTypes.array.isRequired,
+  onLeaveFeedback: PropTypes.func.isRequired,
 };
 export default FeedbackOptions;
