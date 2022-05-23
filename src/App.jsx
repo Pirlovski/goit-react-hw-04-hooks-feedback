@@ -13,7 +13,7 @@ export default function App() {
   const [bad , setBad] = useState(0) ;
 
   const onLeaveFeedback =(e) => {
-    // const name = e.target.name ;
+    
  switch(e.currentTarget.textContent.toLowerCase()) {
   case 'good':
     setGood(good + 1);
