@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Pirlovski.github.io/goit-react-hw-04-hooks-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/Pirlovski.github.io/goit-react-hw-04-hooks-feedback/static/js/main.029e8d1d.js",
+    "main.js": "/Pirlovski.github.io/goit-react-hw-04-hooks-feedback/static/js/main.e394604f.js",
     "index.html": "/Pirlovski.github.io/goit-react-hw-04-hooks-feedback/index.html",
     "main.7acaea2f.css.map": "/Pirlovski.github.io/goit-react-hw-04-hooks-feedback/static/css/main.7acaea2f.css.map",
-    "main.029e8d1d.js.map": "/Pirlovski.github.io/goit-react-hw-04-hooks-feedback/static/js/main.029e8d1d.js.map"
+    "main.e394604f.js.map": "/Pirlovski.github.io/goit-react-hw-04-hooks-feedback/static/js/main.e394604f.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.029e8d1d.js"
+    "static/js/main.e394604f.js"
   ]
 }
